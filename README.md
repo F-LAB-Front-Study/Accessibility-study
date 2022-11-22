@@ -23,6 +23,6 @@
 
 <br>
 
-## Table Of Content
+## 📃Table Of Content
 
 [01. What is digital accessibility, and why does it matter?](./01.What-is-digital-accessiblity/)
