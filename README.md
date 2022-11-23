@@ -14,12 +14,12 @@
 
 ## 👨‍👦‍👦스터디원
 
-| 이름   | GitHub                                 |
-| ------ | -------------------------------------- |
-| 노예찬 | [@noy3928](https://github.com/noy3928) |
-| 이영규 |                                        |
-| 김희열 | [@herekim](https://github.com/herekim) |
-| 공은채 |                                        |
+| 이름   | GitHub                                     |
+| ------ | ------------------------------------------ |
+| 노예찬 | [@noy3928](https://github.com/noy3928)     |
+| 이영규 |                                            |
+| 김희열 | [@herekim](https://github.com/herekim)     |
+| 공은채 | [@ericagong](https://github.com/ericagong) |
 
 <br>
 
