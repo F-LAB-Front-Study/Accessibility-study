@@ -17,7 +17,7 @@
 | 이름   | GitHub                                     |
 | ------ | ------------------------------------------ |
 | 노예찬 | [@noy3928](https://github.com/noy3928)     |
-| 이영규 |                                            |
+| 이영규 | [@lygggg](https://github.com/lygggg)       |
 | 김희열 | [@herekim](https://github.com/herekim)     |
 | 공은채 | [@ericagong](https://github.com/ericagong) |
 
