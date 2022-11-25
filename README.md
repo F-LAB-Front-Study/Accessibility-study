@@ -25,5 +25,6 @@
 
 ## 📃Table Of Content
 
-[01. What is digital accessibility, and why does it matter?](./01.What-is-digital-accessiblity/)
-[02. How is digital accessibility measured?](./02.How-is-digital-accessibility-measured%3F/)
+[01. What is digital accessibility, and why does it matter?](./01.What-is-digital-accessiblity/)  
+[02. How is digital accessibility measured?](./02.How-is-digital-accessibility-measured%3F/)  
+[03. ARIA and HTML](./03.ARIA-and-HTML/)
