@@ -33,4 +33,5 @@
 [07. Images](./07.Images/)  
 [08. Color and Contrast](./08.Color-and-contrast/)  
 [09. Animation and Motion](./09.Animation-and-Motion/)  
-[10. Typography](./10.Typography/)
+[10. Typography](./10.Typography/)  
+[11. Video and Audio](./11.Video-and-audio/)
